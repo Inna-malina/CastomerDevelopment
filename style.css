@@ -619,6 +619,10 @@ footer .body .c-2 .box-center .list2 li:nth-child(1) {
   .bunner .center {
     height: 600px;
   }
+  .bunner .box-center .box .button .button-under {
+    top: -28%;
+    left: -6%;
+  }
   .why .body .center .box-center h2 {
     text-align: left;
     margin: 4% 0px;
